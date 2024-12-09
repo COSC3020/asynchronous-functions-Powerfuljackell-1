@@ -25,6 +25,7 @@ this.
 ## Runtime Analysis
 
 Used the mapReduce solution discussed in class as I found it rather interesting, due to the parallelism it is also inherently asynchronous.
+In addition, implemented a purely asynchronous form of the same solution.
 
 What is the time complexity of your implementation (worst-case $\Theta$)? Add
 your answer, including your reasoning, to this markdown file.
